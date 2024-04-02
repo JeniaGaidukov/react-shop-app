@@ -10,7 +10,7 @@ export function Header() {
             <a
               rel="noreferrer"
               target="_blank"
-              href="https://github.com/JeniaGaidukov/react-movies-app"
+              href="https://github.com/JeniaGaidukov/react-shop-app"
             >
               My Repo
             </a>
